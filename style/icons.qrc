@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/warning_white_24dp.svg</file>
+    <file>icons/cil-window-restore.svg</file>
+    <file>icons/close_white_24dp.svg</file>
+    <file>icons/create_new_folder_white_24dp.svg</file>
+    <file>icons/filter_1_white_24dp.svg</file>
+    <file>icons/filter_2_white_24dp.svg</file>
+    <file>icons/filter_3_white_24dp.svg</file>
+    <file>icons/format_paint_white_24dp.svg</file>
+    <file>icons/help_outline_white_24dp.svg</file>
+    <file>icons/hourglass_full_white_24dp.svg</file>
+    <file>icons/minimize_white_24dp.svg</file>
+    <file>icons/task_alt_white_24dp.svg</file>
+    <file>icons/web_asset_white_24dp.svg</file>
+  </qresource>
+</RCC>

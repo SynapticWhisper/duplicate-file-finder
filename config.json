@@ -1,0 +1,31 @@
+{
+  "text": {
+    "info_page": {
+      "select_folder": {
+        "icon": ":/icons/icons/create_new_folder_white_24dp.svg",
+        "text": "SELECT A FOLDER TO SCAN"
+      },
+      "ready_to_scan": {
+        "icon": ":/icons/icons/task_alt_white_24dp.svg",
+        "text": "READY!\nPRESS START"
+      },
+      "deleting": {
+        "icon": ":/icons/icons/hourglass_full_white_24dp.svg",
+        "text": "DELETING..."
+      },
+      "complete": {
+        "icon": ":/icons/icons/task_alt_white_24dp.svg",
+        "text": "COMPLETE!"
+      }
+    },
+    "help_messages": {
+      "name_service": "A quick scan of the directory.\nWARNING!\nA file name and size matching does\nnot guarantee that the  file is a\nduplicate. Be careful when using\nthis method, some files may be\nmistakenly marked as duplicates.\n\nRecommended to compare file by\nhash sum.",
+      "md5_service": "Recommended option.\nOptimal balance between scanning\nspeed and search quality.\nComparison of files by MD5 hash sum.",
+      "sha_service": "Slight increase in quality\n(compared to MD5) but more time\nconsuming.\nComparison of files by SHA256 hash sum.",
+      "sub_folders": "If enabled, all sub-folders\nwill be scanned.\nIf disabled, only the current\ndirectory will be scanned.\nDefault ON."
+    }
+  },
+  "style": {
+    "tool_tip": "QToolTip {\nbackground-color: #444;\nborder: 0;\nborder-radius: 15px;\ncolor: #fff;\n}\n"
+  }
+}
