@@ -4,6 +4,8 @@
 
 Duplicate File Finder is a powerful and user-friendly application designed to help you quickly identify and remove duplicate files from your system. Using various search methods such as file name comparison, MD5 hash, and SHA256 hash, this tool ensures a thorough and accurate scanning process. The intuitive interface allows for easy navigation and management of duplicates, enhancing your productivity and freeing up valuable storage space.
 
+This project was carried out as a final qualifying work on professional retraining courses.
+
 ## Features
 
 - **Multiple Scan Modes**: Choose from easy (file name), medium (MD5 hash), and hard (SHA256 hash) scanning modes to suit your needs.
